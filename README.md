@@ -1,4 +1,4 @@
-# Delivery-KitchenMax
+# Delivery-KitchenMax PLUS eCommerce
 Install instructions: http://smobilesoft.com/kitchen_max/how-to/installation-instructions/#post-10
 
 a) Download and install Microsoft .NET Framework 4 https://www.microsoft.com/en-us/download/details.aspx?id=24872

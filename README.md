@@ -1,4 +1,7 @@
 # Delivery-KitchenMax PLUS eCommerce
+
+Latest version with all download links is 1.9.6 http://smobilesoft.com/kitchen_max/main-forum/v1-9-6/
+
 Install instructions: http://smobilesoft.com/kitchen_max/how-to/installation-instructions/#post-10
 
 a) Download and install Microsoft .NET Framework 4 https://www.microsoft.com/en-us/download/details.aspx?id=24872
